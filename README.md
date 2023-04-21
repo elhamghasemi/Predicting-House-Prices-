@@ -1,4 +1,4 @@
-# Predicting-House-Prices-
+
 # Predicting House Prices with Machine Learning Model
 
 In this project, we will use the `USA_Housing.csv` dataset to build a machine learning model that predicts the price of a house based on its features.
